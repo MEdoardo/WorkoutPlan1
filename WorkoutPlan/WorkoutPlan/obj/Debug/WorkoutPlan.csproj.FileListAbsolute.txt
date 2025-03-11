@@ -1,0 +1,7 @@
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\bin\Debug\WorkoutPlan.exe.config
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\bin\Debug\WorkoutPlan.exe
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\bin\Debug\WorkoutPlan.pdb
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\obj\Debug\WorkoutPlan.csproj.AssemblyReference.cache
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\obj\Debug\WorkoutPlan.csproj.CoreCompileInputs.cache
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\obj\Debug\WorkoutPlan.exe
+D:\PIU Wrk\WorkoutPlan\WorkoutPlan\obj\Debug\WorkoutPlan.pdb
