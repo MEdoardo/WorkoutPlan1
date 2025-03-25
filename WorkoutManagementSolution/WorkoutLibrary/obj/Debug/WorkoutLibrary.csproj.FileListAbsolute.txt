@@ -1,9 +1,0 @@
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\bin\Debug\WorkoutLibrary.dll
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\bin\Debug\WorkoutLibrary.pdb
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\bin\Debug\ExerciseLibrary.dll
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\bin\Debug\ExerciseLibrary.pdb
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\obj\Debug\WorkoutLibrary.csproj.AssemblyReference.cache
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\obj\Debug\WorkoutLibrary.csproj.CoreCompileInputs.cache
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\obj\Debug\WorkoutL.5FC67067.Up2Date
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\obj\Debug\WorkoutLibrary.dll
-D:\PIU Wrk\WorkoutManagementSolution\WorkoutLibrary\obj\Debug\WorkoutLibrary.pdb

@@ -1,6 +1,0 @@
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.dll
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.pdb
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.AssemblyReference.cache
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.CoreCompileInputs.cache
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.dll
-D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.pdb
