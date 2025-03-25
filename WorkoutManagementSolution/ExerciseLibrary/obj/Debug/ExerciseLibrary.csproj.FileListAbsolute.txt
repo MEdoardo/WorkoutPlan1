@@ -1,0 +1,12 @@
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.dll
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.pdb
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.AssemblyReference.cache
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.CoreCompileInputs.cache
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.dll
+D:\PIU Wrk\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.pdb
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.dll
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\bin\Debug\ExerciseLibrary.pdb
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.AssemblyReference.cache
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.dll
+C:\Users\cisco\Downloads\WorkoutPlan1-main\WorkoutManagementSolution\ExerciseLibrary\obj\Debug\ExerciseLibrary.pdb
